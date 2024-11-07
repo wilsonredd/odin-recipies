@@ -1,0 +1,23 @@
+body {
+    font-family: "Helvetica", "Times New Roman", sans-serif; 
+}
+
+h1 {
+    color: brown;
+    text-align: center;
+}
+
+h2 {
+    color: lightblue;
+}
+
+ul {
+    list-style-type: circle; 
+}
+
+img {
+    width: 600px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
