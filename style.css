@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
     font-family: "Helvetica", "Times New Roman", sans-serif; 
 }
@@ -15,9 +19,26 @@ ul {
     list-style-type: circle; 
 }
 
+a {
+    text-decoration: none;
+}
+
 img {
     width: 600px;
     height: auto;
     margin-left: auto;
     margin-right: auto;
+}
+
+.nav {
+    margin: 0 auto;
+    text-align: center;
+    width: 50%;
+}
+
+.nav-element {
+    background: #e3f4ff;
+    padding: 8px;
+    font-size: 24px;
+    margin: 8px;
 }
